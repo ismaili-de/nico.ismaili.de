@@ -1,4 +1,6 @@
 # Redirects from what the browser requests to what we serve
 # see also https://docs.netlify.com/routing/redirects/
 # for redirect with proxy functionality (not showing URL change), see https://docs.netlify.com/routing/redirects/rewrites-proxies/
-/* https://featureadmin.com/STRATO-apps/wordpress_04/app 200
+/* https://www.featureadmin.com 200
+
+# /* https://featureadmin.com/STRATO-apps/wordpress_04/app 200
